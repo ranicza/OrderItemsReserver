@@ -5,6 +5,7 @@
     "FUNCTIONS_WORKER_RUNTIME": "java",
     "FUNCTIONS_EXTENSION_VERSION": "~4",
     "AzureWebJobsDashboard": "",
-    "ContainerName": "orders"
+    "ContainerName": "orders",
+    "AzureWebJobsServiceBus": ""
   }
 }
